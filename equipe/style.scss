@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.item{
+    padding: 1em;
+    background-color:hsl(0, 0%, 98%) ;
+    text-align: center;
+    .contenu_slide{
+        position: relative;
+        bottom: 20px;
+    }
+}
